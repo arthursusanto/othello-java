@@ -23,7 +23,7 @@ This project features the following:
 1. Clone the repo
 
 ```
-git clone
+git clone https://github.com/arthursusanto/othello-java.git
 ```
 
 2a. Run with Maven
