@@ -24,6 +24,7 @@ This project features the following:
 
 ```
 git clone https://github.com/arthursusanto/othello-java.git
+cd othello-java
 ```
 
 2a. Run with Maven
